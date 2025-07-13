@@ -38,9 +38,11 @@ pip install -r requirements.txt
 
 ### 2. Download the YOLOv8 Model
 
-Download from:
-[Model Link](https://drive.google.com/file/d/1-510SHOSB9UXYPenOoZNAMScrePVcMD/view)
-Save as `model.pt` in the same folder.
+Download from:  
+[Best.pt (Google Drive)](https://drive.google.com/file/d/13VcJ1IQAdvrxOnAI4Urq3uGeJ_M392bp/view?usp=drive_link)  
+Save it as `best.pt` in the same folder.
+⚠️ Note: Due to GitHub's 100MB file limit, the best.pt file is excluded from this repository.
+Please download it manually from the assignment-provided Google Drive link and place it in the root folder before running the script.
 
 ### 3. Run the Code
 
