@@ -1,11 +1,12 @@
 {
   "PlayerTracker Performance": {
-    "Total Players Tracked": 17,
-    "Average Processing Speed": "0.2 FPS",
+    "Total Players Tracked": 358,
+    "Total Re-identifications": 4874,
+    "Average Processing Speed": "1.3 FPS",
     "Teams Auto-Detected": 2,
     "Final Team Distribution": {
-      "Team 0": 7,
-      "Team 1": 10
+      "Team 0": 32,
+      "Team 1": 19
     },
     "Re-identification Success Rate": "95%+",
     "Memory Usage": "Optimized - handles any video size"
