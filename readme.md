@@ -2,13 +2,13 @@
 
 # Player Re-Identification in Sports Footage
 
-This project is a submission for the AI Internship Assignment by **Liat.ai**. The objective is to track football players in a video and consistently assign the same ID to each player, even when they leave and re-enter the frame.
+This project is a test or real world CV application. The objective is to track football players in a video and consistently assign the same ID to each player, even when they leave and re-enter the frame.
 
 ---
 
 ## 📊 Project Description
 
-We implemented a re-identification and tracking pipeline using:
+I implemented a re-identification and tracking pipeline using:
 
 - YOLOv8 for object (player) detection
 - Color clustering (KMeans) for jersey identification
@@ -78,6 +78,6 @@ The output video will be saved as `resultant_output.mp4` and shows:
 
 ## 📘 Author
 
-Built and debugged by **\Abhishek Sharma** as part of Liat.ai Internship Application.
+Built and debugged by **\Abhishek Sharma**
 
 ---
