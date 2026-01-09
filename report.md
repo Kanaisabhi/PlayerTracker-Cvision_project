@@ -4,7 +4,7 @@
 
 ## 🔍 Overview
 
-This project was part of the internship assignment from Liat.ai to test real-world problem-solving in computer vision. The objective was to identify and track football players using object detection, ensuring consistent IDs even if they leave and re-enter the frame.
+This project was part to test real-world problem-solving in computer vision. The objective was to identify and track football players using object detection, ensuring consistent IDs even if they leave and re-enter the frame.
 
 ---
 
@@ -72,4 +72,3 @@ Thanks for reviewing my work. I’d love to discuss my learnings, improvements, 
 ---
 
 **Submitted by:** Abhishek
-**Role:** Aspiring AI Intern @ Liat.ai
